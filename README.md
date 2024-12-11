@@ -1,2 +1,2 @@
 # CivicEducationKenyaApp
-I would like to create an app to help with Civic Education proliferation in Kenya, making it intuitive and easy to access and help those in need
+We'd love to see an app that consolidates civic efforts into an intuitive, simple, accessible space for all Kenyans. So, we're building one... developers and donors are welcome to help #ceka
